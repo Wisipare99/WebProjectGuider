@@ -1,5 +1,5 @@
+// prettier.config.js
 module.exports = {
-    singleQuote: true,
-    trailingComma: 'all',
-  };
-  
+  singleQuote: true,
+  trailingComma: 'all',
+};
